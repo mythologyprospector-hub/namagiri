@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.so
+*.o
+*.a
+*.out
+/build/
+/dist/
+results/*
+!results/.gitkeep
+experiments/*
+!experiments/.gitkeep
+.pytest_cache/
+.DS_Store
