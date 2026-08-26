@@ -84,12 +84,10 @@ The project lead will decide when live testing is appropriate. Until then, keep 
 
 ## Testing host
 
-The user's personal development machine is called **Bucky** by the user. No live Shiva/Namagiri execution should be performed on Bucky merely because a feature has been written. A test is run only after the project reaches the appropriate milestone and a specific test procedure has been prepared.
+The user's live development machine is referred to as **Bucky**. No live Shiva/Namagiri execution should be performed on Bucky merely because a feature has been written. A test is run only after the project reaches the appropriate milestone and a specific test procedure has been prepared.
 
 ## License
 
-Namagiri is licensed under the MIT License.
-
-Copyright (c) 2026 James Earl Stambaugh III
+No Namagiri license has been selected yet. Do not add one by assumption.
 
 The Shiva snapshot retains the files and licensing information supplied with that source. Do not imply that Shiva and Namagiri have the same license.
