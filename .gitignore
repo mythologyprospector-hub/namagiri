@@ -12,3 +12,6 @@ experiments/*
 !experiments/.gitkeep
 .pytest_cache/
 .DS_Store
+
+# Local Shiva investigation workspace
+/reference/shiva/
