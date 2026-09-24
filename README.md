@@ -1,5 +1,12 @@
 # Namagiri
 
+> [!CAUTION]
+> **This repository is NOT part of the Renaissance project.**
+> Namagiri is an independent project for Shiva orchestration and inspection. It
+> is not a Renaissance subsystem, and Renaissance architecture does not govern
+> its internal work. Any future interoperability with Renaissance must be
+> explicit.
+
 **Namagiri is the orchestration and inspection layer for Shiva.**
 
 Namagiri is not a fork, replacement, or reimplementation of Shiva. Shiva remains the low-level engine. Namagiri examines ELF targets, discovers Shiva capabilities, validates proposed operations, builds reproducible execution plans, coordinates execution, collects results, and explains what happened.
